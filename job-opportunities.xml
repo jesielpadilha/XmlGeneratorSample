@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <lastBuildDate>Wed, 07 Sep 2022 14:20:02 GMT</lastBuildDate>
+  <publisherUrl>https://www.google.com/</publisherUrl>
+  <publisher>ATS</publisher>
+  <expectedJobCount>&lt;![CDATA[2]]&gt;</expectedJobCount>
+  <job>
+    <partnerJobId>&lt;![CDATA[2b7a2d25-addf-4a1d-bd5a-0120cd8b5efc]]&gt;</partnerJobId>
+    <company>&lt;![CDATA[Company Name]]&gt;</company>
+    <title>&lt;![CDATA[Quality Analyst]]&gt;</title>
+    <description>&lt;![CDATA[job description...]]&gt;</description>
+    <applyUrl>&lt;![CDATA[https://www.google.com/]]&gt;</applyUrl>
+    <companyId>&lt;![CDATA[46546564]]&gt;</companyId>
+    <city>&lt;![CDATA[São Paulo]]&gt;</city>
+    <state>&lt;![CDATA[SP]]&gt;</state>
+    <country>&lt;![CDATA[BR]]&gt;</country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>&lt;![CDATA[5000]]&gt;</amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>&lt;![CDATA[2000]]&gt;</amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+      </salary>
+    </salaries>
+    <workplaceTypes>&lt;![CDATA[Hybrid]]&gt;</workplaceTypes>
+  </job>
+  <job>
+    <partnerJobId>&lt;![CDATA[2b7a2d25-addf-4a1d-bd5a-0120cd8b5tgd]]&gt;</partnerJobId>
+    <company>&lt;![CDATA[Company Name]]&gt;</company>
+    <title>&lt;![CDATA[Senior Developer]]&gt;</title>
+    <description>&lt;![CDATA[job description...]]&gt;</description>
+    <applyUrl>&lt;![CDATA[https://www.google.com/]]&gt;</applyUrl>
+    <companyId>&lt;![CDATA[46546564]]&gt;</companyId>
+    <city>&lt;![CDATA[Florianopolis]]&gt;</city>
+    <state>&lt;![CDATA[SC]]&gt;</state>
+    <country>&lt;![CDATA[BR]]&gt;</country>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>&lt;![CDATA[15000]]&gt;</amount>
+          <currencyCode>BRL</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>&lt;![CDATA[8000]]&gt;</amount>
+          <currencyCode>BRL</currencyCode>
+        </lowEnd>
+      </salary>
+    </salaries>
+    <workplaceTypes>&lt;![CDATA[Remote]]&gt;</workplaceTypes>
+  </job>
+</source>
